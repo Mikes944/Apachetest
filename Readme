@@ -1,0 +1,13 @@
+# Testing a first draft of an Apache file being created in GitHub.
+# I am very new to this and looking to test and confirm it's effectiveness.
+#This is the README file
+
+
+
+echo "# Apachetest" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Mikes944/Apachetest.git
+  git push -u origin main
