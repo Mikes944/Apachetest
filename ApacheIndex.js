@@ -1,5 +1,5 @@
 #Apache file being created to test GitHub. 
-#This is to send a quick "Hello World" when it is used. 
+#This is to send a quick "Hello World" when it is used. It did not open a Hello World message. Showed RHEL Test page
 #The coding of the webserver was borrowed from: "https://github.com/seratch/apache-module-samples/blob/master/helloworld/mod_helloworld.c"
 
 #include "httpd.h"
